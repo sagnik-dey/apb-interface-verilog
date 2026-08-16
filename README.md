@@ -94,6 +94,13 @@ Test an invalid address
   ↓
 Check PSLVERR
 ```
+
+## Simulation Results
+
+The following waveform shows the simulated APB transaction sequence, including reset, write, read, and invalid address operations.
+
+![APB Simulation Waveform](apbwaveform.png)
+
 ## Tools
 
 - Verilog HDL
