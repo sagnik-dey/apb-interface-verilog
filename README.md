@@ -36,6 +36,8 @@ apb-interface-verilog/
 │
 └── tb/
     └── tb_apb.v
+```
+
 ## Modules
 
 ### APB Master
