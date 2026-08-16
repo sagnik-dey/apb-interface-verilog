@@ -93,15 +93,21 @@ Read data from the slave
 Test an invalid address
   ↓
 Check PSLVERR
-Tools
-Verilog HDL
-EDA Playground
-Repository Contents
-src/APB_master.v — APB master implementation
-src/APB_slave.v — APB slave implementation
-tb/tb_apb.v — Simulation testbench
-Future Improvements
-Improve APB timing and handshake handling
-Add additional test cases
-Add waveform screenshots
-Extend the slave interface with more realistic register blocks
+```
+## Tools
+
+- Verilog HDL
+- EDA Playground
+
+## Repository Contents
+
+- `src/APB_master.v` — APB master implementation
+- `src/APB_slave.v` — APB slave implementation
+- `tb/tb_apb.v` — Simulation testbench
+
+## Future Improvements
+
+- Improve APB timing and handshake handling
+- Add additional test cases
+- Add waveform screenshots
+- Extend the slave interface with more realistic register blocks
