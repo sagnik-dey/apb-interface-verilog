@@ -23,21 +23,6 @@ Add additional test cases
 Add waveform screenshots
 Extend the slave interface with more realistic register blocks
 
-## Project Structure
-
-```text
-apb-interface-verilog/
-│
-├── README.md
-│
-├── src/
-│   ├── APB_master.v
-│   └── APB_slave.v
-│
-└── tb/
-    └── tb_apb.v
-```
-
 ## Modules
 
 ### APB Master
